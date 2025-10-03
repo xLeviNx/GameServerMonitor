@@ -8,6 +8,7 @@ from .discord import Discord
 from .doom3 import Doom3
 from .eco import Eco
 from .factorio import Factorio
+from .fika import Fika
 from .fivem import FiveM
 from .front import Front
 from .gamespy1 import GameSpy1
