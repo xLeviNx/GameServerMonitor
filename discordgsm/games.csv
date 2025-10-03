@@ -110,6 +110,7 @@ factorio,Factorio (2016),factorio,port=34197
 farcry,Far Cry (2004),ase,port=49001;port_query_offset=123
 farcry2,Far Cry 2 (2008),ase,port_query=14001
 fear,F.E.A.R. (2005),gamespy2,port_query=27888
+fika,Escape From Tarkov - Fika,fika,port_query=6969
 fivem,Grand Theft Auto V - FiveM (2013),fivem,port=30120
 flashpoint,Operation Flashpoint: Cold War Crisis (2001),gamespy1,port=2302;port_query_offset=1
 flashpointresistance,Operation Flashpoint: Resistance (2002),gamespy1,port=2302;port_query_offset=1
